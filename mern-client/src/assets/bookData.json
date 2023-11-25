@@ -1,0 +1,75 @@
+[
+    {
+      "_id": "654f41e53f70e46aa5df07d6",
+      "author": "Rajnish",
+      "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/...",
+      "category": "Bibliography",
+      "book_description": "At age 37, former tennis champion Carrie Soto is back in the game to e...",
+      "book_title": "Carrie Soto Is Back 44",
+      "book_pdf_url": "https://www.goodreads.com/book/show/58784475-tomorrow-and-tomorrow-and…"
+    },
+    {
+      "_id": "654f881dcf354ab343db5dc1",
+      "author": "Sarah J. Maas",
+      "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/...",
+      "category": "History",
+      "book_description": "Fantasy queen Sarah J. Maas takes home her seventh Goodreads Choice Aw…",
+      "book_title": "House of Sky and Breath",
+      "book_pdf_url": "https://www.goodreads.com/book/show/58784475-tomorrow-and-tomorrow-and…"
+    },
+    {
+      "_id": "654f8979cf354ab343db5dc2",
+      "author": "Emily Henry",
+      "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/...",
+      "category": "Romance",
+      "book_description": "Fantasy queen Sarah J. Maas takes home her seventh Goodreads Choice Aw…",
+      "book_title": "Book Lovers",
+      "book_pdf_url": "https://www.goodreads.com/book/show/58784475-tomorrow-and-tomorrow-and…"
+    },
+    {
+      "_id": "654f8bbecf354ab343db5dc4",
+      "author": "Brené Brown",
+      "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/...",
+      "category": "Horror",
+      "book_description": "Author and researcher Brené Brown attempts to map the human heart itse…",
+      "book_title": "Atlas of the Heart",
+      "book_pdf_url": "https://www.goodreads.com/book/show/58784475-tomorrow-and-tomorrow-and…"
+    },
+    {
+      "_id": "654f8c3bcf354ab343db5dc5",
+      "author": "Huw Lemmey",
+      "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/...",
+      "category": "History",
+      "book_description": "Based on the popular podcast series, Bad Gays is a mischievous variati…",
+      "book_title": "Bad Gays",
+      "book_pdf_url": "https://www.goodreads.com/book/show/58784475-tomorrow-and-tomorrow-and…"
+    },
+    {
+      "_id": "6550e18660dd69c6b417456a",
+      "author": "Fredrik Backman",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.good…",
+      "category": "Non-Fiction",
+      "book_pdf_url": "https://www.goodreads.com/book/show/60209470-the-winners",
+      "book_description": "Two years have passed since the events that no one wants to think abou…",
+      "book_title": "The Winners"
+    },
+    {
+      "_id": "6550e2fb60dd69c6b417456b",
+      "author": "Elizabeth Strout",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.good…",
+      "category": "Fiction",
+      "book_pdf_url": "https://www.goodreads.com/book/show/60657583-lucy-by-the-sea",
+      "book_description": "As a panicked world goes into lockdown, Lucy Barton is uprooted from h…",
+      "book_title": "Lucy by the Sea"
+    },
+    {
+      "_id": "6550e36560dd69c6b417456c",
+      "author": "Angie Cruz",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.good…",
+      "category": "Fiction",
+      "book_pdf_url": "https://www.goodreads.com/book/show/59808037-how-not-to-drown-in-a-gla…",
+      "book_description": "Cara Romero thought she would work at the factory of little lamps for …",
+      "book_title": "How Not to Drown in a Glass of Water"
+    }
+  ]
+  
